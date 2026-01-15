@@ -1,0 +1,14 @@
+C:\Users\emad\source\repos\Assignment - Exercise\Exercise 2\Assessed Exercise 2 C\ADSPortEx2\obj\Debug\ADSPortEx2.csproj.AssemblyReference.cache
+C:\Users\emad\source\repos\Assignment - Exercise\Exercise 2\Assessed Exercise 2 C\ADSPortEx2\obj\Debug\ADSPortEx2.csproj.CoreCompileInputs.cache
+C:\Users\emad\source\repos\Assignment - Exercise\Exercise 2\Assessed Exercise 2 C\ADSPortEx2\bin\Debug\ADSPortEx2.exe.config
+C:\Users\emad\source\repos\Assignment - Exercise\Exercise 2\Assessed Exercise 2 C\ADSPortEx2\bin\Debug\ADSPortEx2.exe
+C:\Users\emad\source\repos\Assignment - Exercise\Exercise 2\Assessed Exercise 2 C\ADSPortEx2\bin\Debug\ADSPortEx2.pdb
+C:\Users\emad\source\repos\Assignment - Exercise\Exercise 2\Assessed Exercise 2 C\ADSPortEx2\obj\Debug\ADSPortEx2.exe
+C:\Users\emad\source\repos\Assignment - Exercise\Exercise 2\Assessed Exercise 2 C\ADSPortEx2\obj\Debug\ADSPortEx2.pdb
+E:\AI and Data Sience\Year 2\Algorithms and Data Structures\Assignment\Submitted\E_Alkadro_23646017_Unit(6G5Z0024_2425_9) - Copy\Exercise 2\Assessed Exercise 2\ADSPortEx2\bin\Debug\ADSPortEx2.exe.config
+E:\AI and Data Sience\Year 2\Algorithms and Data Structures\Assignment\Submitted\E_Alkadro_23646017_Unit(6G5Z0024_2425_9) - Copy\Exercise 2\Assessed Exercise 2\ADSPortEx2\bin\Debug\ADSPortEx2.exe
+E:\AI and Data Sience\Year 2\Algorithms and Data Structures\Assignment\Submitted\E_Alkadro_23646017_Unit(6G5Z0024_2425_9) - Copy\Exercise 2\Assessed Exercise 2\ADSPortEx2\bin\Debug\ADSPortEx2.pdb
+E:\AI and Data Sience\Year 2\Algorithms and Data Structures\Assignment\Submitted\E_Alkadro_23646017_Unit(6G5Z0024_2425_9) - Copy\Exercise 2\Assessed Exercise 2\ADSPortEx2\obj\Debug\ADSPortEx2.csproj.AssemblyReference.cache
+E:\AI and Data Sience\Year 2\Algorithms and Data Structures\Assignment\Submitted\E_Alkadro_23646017_Unit(6G5Z0024_2425_9) - Copy\Exercise 2\Assessed Exercise 2\ADSPortEx2\obj\Debug\ADSPortEx2.csproj.CoreCompileInputs.cache
+E:\AI and Data Sience\Year 2\Algorithms and Data Structures\Assignment\Submitted\E_Alkadro_23646017_Unit(6G5Z0024_2425_9) - Copy\Exercise 2\Assessed Exercise 2\ADSPortEx2\obj\Debug\ADSPortEx2.exe
+E:\AI and Data Sience\Year 2\Algorithms and Data Structures\Assignment\Submitted\E_Alkadro_23646017_Unit(6G5Z0024_2425_9) - Copy\Exercise 2\Assessed Exercise 2\ADSPortEx2\obj\Debug\ADSPortEx2.pdb

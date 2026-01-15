@@ -1,0 +1,7 @@
+C:\Users\emad\source\repos\Assignment - Exercise\Exercise 3\ass2\ADSPortEx3\bin\Debug\ADSPortEx3.exe.config
+C:\Users\emad\source\repos\Assignment - Exercise\Exercise 3\ass2\ADSPortEx3\bin\Debug\ADSPortEx3.exe
+C:\Users\emad\source\repos\Assignment - Exercise\Exercise 3\ass2\ADSPortEx3\bin\Debug\ADSPortEx3.pdb
+C:\Users\emad\source\repos\Assignment - Exercise\Exercise 3\ass2\ADSPortEx3\obj\Debug\ADSPortEx3.csproj.AssemblyReference.cache
+C:\Users\emad\source\repos\Assignment - Exercise\Exercise 3\ass2\ADSPortEx3\obj\Debug\ADSPortEx3.csproj.CoreCompileInputs.cache
+C:\Users\emad\source\repos\Assignment - Exercise\Exercise 3\ass2\ADSPortEx3\obj\Debug\ADSPortEx3.exe
+C:\Users\emad\source\repos\Assignment - Exercise\Exercise 3\ass2\ADSPortEx3\obj\Debug\ADSPortEx3.pdb
